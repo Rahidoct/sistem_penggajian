@@ -34,9 +34,9 @@
                                 } elseif ($currentTime >= 14 && $currentTime < 18) {
                                     $greeting = 'Selamat Sore';
                                     $fyi = 'Semoga lelahmu menjadi berkah.';
-                                } else {
+                                } else{
                                     $greeting = 'Selamat Malam';
-                                    $fyi = 'Jangan lupa istirahat biar kamu tetap sehat. !';
+                                    $fyi = 'Jangan lupa istirahat, biar kamu tetap sehat. !';
                                 }
                                 @endphp
                                 {{ $greeting }} ! {{ auth()->user()->nama }}, {{ $fyi }}
