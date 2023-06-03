@@ -97,7 +97,7 @@
                         <p class="font-weight-bold">{{ $item->nama }}</p>
                     </td>
                     <td width="200px">
-                        <p class="font-weight-bold">Lombok, {{ date('d M Y') }} Web Agency,</p>
+                        <p class="font-weight-bold">Cirebon, {{ date('d M Y') }} <br> Direktur Utama</p>
                         <br>
                         <br>
                         <p>_________________</p>

@@ -26,21 +26,22 @@
                         <div class="card-body p-3">
 
                             <form action="{{ route('admin.potongan-gaji.update', $potongan_gaji->id) }}" method="POST">
-                                @csrf 
+                                @csrf
                                 @method('put')
+                            
                                 <div style="gap: .5rem;flex-wrap: wrap;" class="form-group justify-content-between d-flex align-items-center mb-5">
                                     <label class="m-0" for="jenis_potongan">Jenis Potongan</label>
-                                    <input class="form-control" style="width: 80%;" type="text" name="jenis_potongan" value="{{ old('jenis_potongan', $potongan_gaji->jenis_potongan) }}">
+                                    <span class="form-control" style="width: 80%;">{{ $potongan_gaji->jenis_potongan }}</span>
+                                    <input type="hidden" name="jenis_potongan" value="{{ $potongan_gaji->jenis_potongan }}">
                                 </div>
-
+                            
                                 <div style="gap: .5rem;flex-wrap: wrap;" class="form-group justify-content-between d-flex align-items-center mb-5">
                                     <label class="m-0" for="jumlah_potongan">Jumlah Potongan</label>
                                     <input class="form-control" style="width: 80%;" type="number" name="jumlah_potongan" value="{{ old('jumlah_potongan', $potongan_gaji->jumlah_potongan) }}">
                                 </div>
-                                
+                            
                                 <button class="btn btn-primary" type="submit">Simpan</button>
-                            </form>
-
+                            </form>                            
                         </div>
                     </div>
 

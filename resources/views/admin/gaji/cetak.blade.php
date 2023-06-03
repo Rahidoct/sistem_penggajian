@@ -72,7 +72,7 @@
             <tr>
                 <td></td>
                 <td width="200px">
-                    <p>Cirebon, {{ date("d M Y") }} <br /> Pimpinan</p>
+                    <p>Cirebon, {{ date("d M Y") }} <br /> Direktur Utama</p>
                     <br/>
                     <br/>
                     <p>________________________</p>

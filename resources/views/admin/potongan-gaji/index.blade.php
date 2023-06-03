@@ -12,7 +12,7 @@
                 <div class="col-12 d-flex justify-content-between">
                     <h1 class="m-0">{{ __('Potongan Gaji') }}</h1>
 
-                    <a href="{{ route('admin.potongan-gaji.create') }}" class="btn btn-success"> <i class="fa fa-plus"></i> </a>
+                    {{-- <a href="{{ route('admin.potongan-gaji.create') }}" class="btn btn-success"> <i class="fa fa-plus"></i> </a> --}}
                 </div><!-- /.col --> 
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
