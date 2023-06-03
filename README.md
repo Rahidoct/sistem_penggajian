@@ -1,4 +1,4 @@
-# Aplikasi Penggajian Dengan Laravel
+# Aplikasi Penggajian Dengan Laravel V.10
 
 <!-- ### Jabatan
 
@@ -30,7 +30,7 @@
   cd nama_project
 ```
 
--  Copy .env.example menjadi .env edit konfigurasi database dll
+-  Copy .env.example menjadi .env edit konfigurasi dibagian database lalu ganti nama database "laravel" menjadi "penggajian"
 
 ```bash
     composer install
