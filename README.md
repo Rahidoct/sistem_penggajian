@@ -30,7 +30,7 @@
 
 ### Data Gaji Pegawai
 
-![preview img](/daftar_gaji.jpeg)
+![preview img](/data_gaji.jpeg)
 
 ### Cetak Laporan Gaji
 
