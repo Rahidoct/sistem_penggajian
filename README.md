@@ -1,24 +1,44 @@
 # Aplikasi Penggajian Dengan Laravel V.10
 
-<!-- ### Jabatan
+### Login
 
-![preview img](/jabatan.png)
+![preview img](/login.jpeg)
+
+### Beranda
+
+![preview img](/beranda.jpeg)
+
+### Jabatan
+
+![preview img](/jabatan.jpeg)
 
 ### Karyawan
 
-![preview img](/karyawan.png)
+![preview img](/karyawan.jpeg)
 
 ### Input Kehadiran
 
-![preview img](/kehadiran.png)
+![preview img](/input_absen.jpeg)
 
-### Laporan Gaji
+### Data Kehadiran
 
-![preview img](/gaji.png)
+![preview img](/data_absen.jpeg)
 
-### Slip Gaji
+### Potongan Gaji
 
-![preview img](/slip_gaji.png) -->
+![preview img](/potongan_gaji.jpeg)
+
+### Data Gaji Pegawai
+
+![preview img](/daftar_gaji.jpeg)
+
+### Cetak Laporan Gaji
+
+![preview img](/cetak_daftar_gaji_pegawai.jpeg)
+
+### Cetak Slip Gaji
+
+![preview img](/cetak_slip_gaji_pegawai.jpeg)
 
 ### Download Project
 
