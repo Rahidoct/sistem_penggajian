@@ -32,10 +32,10 @@
 
 ![preview img](/data_gaji.jpeg)
 
-### Cetak Laporan Gaji
+### Cetak Laporan Gaji Semua Karyawan
 
 ![preview img](/cetak_daftar_gaji_pegawai.jpeg)
 
-### Cetak Slip Gaji
+### Cetak Slip Gaji Individu
 
 ![preview img](/cetak_slip_gaji_pegawai.jpeg)
